@@ -1,15 +1,17 @@
-## Install Swift
-# @see https://swift-arm.com/installSwift
-sudo apt update && sudo apt upgrade
-sudo apt install curl
-curl -s https://archive.swiftlang.xyz/install.sh | sudo bash
-sudo apt install swiftlang
+### Swift an Git are existing in RapberryPi 64bit OS
+#
+### Install Swift
+## @see https://swift-arm.com/installSwift
+#sudo apt update && sudo apt upgrade
+#sudo apt install curl
+#curl -s https://archive.swiftlang.xyz/install.sh | sudo bash
+#sudo apt install swiftlang
 
 # check swift tripple
 swiftc -print-target-info
 
-## Install Git
-sudo apt install git
+### Install Git
+#sudo apt install git
 
 
 ### EOF
