@@ -7,7 +7,8 @@
 
 ## Toolchain
 
-* [ChangeInGit](https://github.com/bastie/ChangeInGIT) is hack to observe GIT repositories and react if changed, maybe run continuous integration scripts on own hardware.
+* [ChangeInGit](https://github.com/bastie/ChangeInGIT) is a hack to observe GIT repositories and react if changed, maybe run continuous integration scripts on own hardware.
+* [WatchEachBuild](https://github.com/bastie/WatchEachBuild) is a hack HTTP-Server hack to get simple access to own build hardware used to get files from continuous build.
 
 ## Libraries
 
